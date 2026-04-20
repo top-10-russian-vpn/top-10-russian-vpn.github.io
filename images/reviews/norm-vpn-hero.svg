@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Норм VPN">
+
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="rgba(15,23,42,.28)"/></filter>
+</defs>
+<rect width="1200" height="630" rx="32" fill="#0f172a"/>
+<circle cx="1030" cy="130" r="190" fill="#14b8a6" opacity=".18"/>
+<circle cx="1140" cy="40" r="120" fill="#14b8a6" opacity=".12"/>
+<rect x="56" y="56" width="1088" height="518" rx="28" fill="rgba(255,255,255,.04)" stroke="rgba(255,255,255,.08)"/>
+<rect x="72" y="74" width="168" height="168" rx="32" fill="#14b8a6" filter="url(#shadow)"/>
+<text x="156" y="176" fill="#fff" font-size="78" font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle">Н</text>
+<text x="270" y="112" fill="#93c5fd" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="700">ПОЛНЫЙ ОБЗОР</text>
+
+<text x="270" y="170" fill="#ffffff" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="800">Норм VPN</text>
+<circle cx="294" cy="280" r="8" fill="#14b8a6"/>
+<text x="320" y="290" fill="#e2e8f0" font-size="28" font-family="Arial, Helvetica, sans-serif">Официальный бот в Telegram</text>
+<circle cx="294" cy="348" r="8" fill="#14b8a6"/>
+<text x="320" y="358" fill="#e2e8f0" font-size="28" font-family="Arial, Helvetica, sans-serif">Есть публичные документы: соглашение и оферта</text>
+<circle cx="294" cy="416" r="8" fill="#14b8a6"/>
+<text x="320" y="426" fill="#e2e8f0" font-size="28" font-family="Arial, Helvetica, sans-serif">Возврат зависит от фактического использования трафика</text>
+<circle cx="294" cy="484" r="8" fill="#14b8a6"/>
+<text x="320" y="494" fill="#e2e8f0" font-size="28" font-family="Arial, Helvetica, sans-serif">Сервис прямо пишет, что не гарантирует защиту от всех блокировок</text>
+</svg>
