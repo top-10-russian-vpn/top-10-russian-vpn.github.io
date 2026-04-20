@@ -1,0 +1,28 @@
+{
+  "name": "TOP10 VPN — рейтинг VPN для России",
+  "short_name": "TOP10 VPN",
+  "description": "Рейтинг рабочих VPN для России: обзоры, сравнения, выбор по задачам и FAQ.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080304",
+  "theme_color": "#b91c1c",
+  "icons": [
+    {
+      "src": "/favicon/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
